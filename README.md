@@ -8,11 +8,11 @@ My area of concern is Red team operation , making cyber products and development
 This account is for my personal projects and involvement with [OPERATION FALCON](https://github.com/operationfalcon).
 
 <a href="https://github.com/sponsors/Deepanjalkumar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepanjalkumar&show_icons=true&line_height=43&count_private=true&theme=dark" alt="Deepanjalkumar GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepanjalkumar&show_icons=true&line_height=83&count_private=true&theme=dark" alt="Deepanjalkumar GitHub Stats" />
 </a>
 
 <a href="https://github.com/sponsors/Deepanjalkumar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanjalkumar&hide=cmake&langs_count=5&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanjalkumar&hide=cmake&langs_count=10&line_height=35&theme=dark" />
 </a>
 
 ## 🤔 Where to find me
