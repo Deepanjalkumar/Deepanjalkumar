@@ -34,6 +34,9 @@ sikert is my first project developed in python and as well as in golang with mor
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deepanjal%20kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caffix/)](www.linkedin.com/in/deepanjal-21041217b)
 
+[![GitHub pranaypaine](https://img.shields.io/github/followers/pranaypaine?label=follow&style=social)](https://github.com/pranaypaine)
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
