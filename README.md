@@ -32,7 +32,9 @@ sikert is my first project developed in python and as well as in golang with mor
 
 ## 🤔 Where to find me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Deepanjal%20kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caffix/)](www.linkedin.com/in/deepanjal-21041217b)
+[![Linkedin Badge](https://img.shields.io/badge/-Deepanjal%20kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanjal-21041217b/)](www.linkedin.com/in/deepanjal-21041217b)
+
+[![Python Badge](https://img.shields.io/badge/-Deepanjal%20kumar-blue?style=flat-square&logo=Python&logoColor=white&link=https://pypi.org/user/deepanjal/)](https://pypi.org/user/deepanjal/)
 
 [![GitHub pranaypaine](https://img.shields.io/github/followers/Deepanjalkumar?label=follow&style=social)](https://github.com/Deepanjalkumar)
 
