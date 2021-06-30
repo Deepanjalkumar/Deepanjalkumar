@@ -59,7 +59,3 @@ sikert is my first project developed in python and as well as in golang with mor
 <a href="https://github.com/Deepanjalkumar/axtrack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepanjalkumar&repo=axtrack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
-<a href="https://github.com/Deepanjalkumar/First_Gate_Of_Death">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepanjalkumar&repo=First_Gate_Of_Death&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
