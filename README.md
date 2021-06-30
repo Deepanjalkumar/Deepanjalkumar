@@ -34,7 +34,7 @@ sikert is my first project developed in python and as well as in golang with mor
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deepanjal%20kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caffix/)](www.linkedin.com/in/deepanjal-21041217b)
 
-[![GitHub pranaypaine](https://img.shields.io/github/followers/pranaypaine?label=follow&style=social)](https://github.com/pranaypaine)
+[![GitHub pranaypaine](https://img.shields.io/github/followers/Deepanjalkumar?label=follow&style=social)](https://github.com/Deepanjalkumar)
 
 
 ## 🔧 Technologies & Tools
