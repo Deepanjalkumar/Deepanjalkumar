@@ -17,5 +17,5 @@ This account is for my personal projects and involvement with [OPERATION FALCON]
 
 ## 🤔 Where to find me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jeff%20Foley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caffix/)](www.linkedin.com/in/deepanjal-21041217b)
+[![Linkedin Badge](https://img.shields.io/badge/-Deepanjal%20kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caffix/)](www.linkedin.com/in/deepanjal-21041217b)
 
