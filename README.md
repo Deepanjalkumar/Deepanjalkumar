@@ -12,7 +12,7 @@ This account is for my personal projects and involvement with [OPERATION FALCON]
 </a>
 
 <a href="https://github.com/sponsors/Deepanjalkumar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanjalkumar&hide=cmake&langs_count=10&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanjalkumar&hide=cmake&langs_count=5&line_height=35&theme=dark" />
 </a>
 
 ## 🤔 Where to find me
