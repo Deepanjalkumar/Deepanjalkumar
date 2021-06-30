@@ -1,16 +1,21 @@
 ### Hi there 👋
+# 👨‍💻 About Deepanjal Kumar
 
-<!--
-**Deepanjalkumar/Deepanjalkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a White hat hacker aka(Security researcher), tool developer and technologist that enjoys creativity, automation and offensive stuff.
 
-Here are some ideas to get you started:
+My area of concern is Red team operation , making cyber products and development with a focus on offensive security engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This account is for my personal projects and involvement with [OPERATION FALCON](https://github.com/operationfalcon).
+
+<a href="https://github.com/sponsors/Deepanjalkumar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepanjalkumar&show_icons=true&line_height=33&count_private=true&theme=dark" alt="Deepanjalkumar GitHub Stats" />
+</a>
+
+<a href="https://github.com/sponsors/Deepanjalkumar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanjalkumar&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>
+
+## 🤔 Where to find me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jeff%20Foley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caffix/)](www.linkedin.com/in/deepanjal-21041217b)
+
