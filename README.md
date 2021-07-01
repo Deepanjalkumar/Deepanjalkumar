@@ -5,7 +5,7 @@ I'm a White hat hacker aka(Security researcher), tool developer and technologist
 
 My area of concern is Red team operation , making cyber products and development with a focus on offensive security engineering.
 
-Nowdays i am into water and air and other side of internet (Its all dark)
+Nowdays i am into water and air and other side of internet (Its all dark), cheers to marine hackers in the house.
 
 This account is for my personal projects and involvement with [OPERATION FALCON](https://github.com/operationfalcon).
 
