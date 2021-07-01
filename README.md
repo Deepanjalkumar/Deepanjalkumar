@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 👨‍💻 About Deepanjal Kumar
 
-I'm a hacker aka(Security researcher & former data scientist), tool developer and technologist that enjoys creativity, automation and 
+I'm a hacker aka(Security researcher ), tool developer and technologist that enjoys creativity, automation and 
 
 offensive stuff.
 
