@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 👨‍💻 About Deepanjal Kumar
 
-I'm a hacker aka(Security researcher), tool developer and technologist that enjoys creativity, automation and offensive stuff.
+I'm a hacker aka(Security researcher & former data scientist), tool developer and technologist that enjoys creativity, automation and offensive stuff.
 
 My area of concern is Red team operation , making cyber products and development with a focus on offensive security engineering.
 
