@@ -22,7 +22,10 @@ https://play.golang.org/p/HMZ3inSHu8V (Buffering and iterating over channels)
 
 sikert is my first project developed in python and as well as in golang with more than 500 users .
 
-![sikert_stats_from_wiki](https://user-images.githubusercontent.com/55708909/123974595-578eb400-d9da-11eb-89ee-f5766b3e07b3.png)
+![axtrack](https://user-images.githubusercontent.com/55708909/124773073-3984fe80-df5a-11eb-88d9-34d9dae91527.png)
+
+![sikert](https://user-images.githubusercontent.com/55708909/124773103-40ac0c80-df5a-11eb-8e91-64bce567fa7f.png)
+
 
 
 <a href="https://github.com/sponsors/Deepanjalkumar">
