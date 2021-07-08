@@ -20,6 +20,8 @@ https://play.golang.org/p/Z7Sh66r0Nxl ( channel communication)
 
 https://play.golang.org/p/HMZ3inSHu8V (Buffering and iterating over channels)
 
+https://play.golang.org/p/qvUXEkJtjkO (Worker pool)
+
 sikert is my first project developed in python and as well as in golang with more than 500 users .
 
 ![axtrack](https://user-images.githubusercontent.com/55708909/124773073-3984fe80-df5a-11eb-88d9-34d9dae91527.png)
