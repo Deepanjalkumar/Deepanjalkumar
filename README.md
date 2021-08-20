@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 👨‍💻 About Deepanjal Kumar
-# Programming language shown in visualization are in contrast with public repos
+
 I'm a hacker aka(Security researcher ), tool developer and technologist that enjoys creativity, automation and 
 
 offensive stuff.
