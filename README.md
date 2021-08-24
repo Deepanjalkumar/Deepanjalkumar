@@ -12,7 +12,7 @@ Nowdays i am into water, air and other side of internet (Its all dark).
 This account is for my personal projects and involvement with [OPERATION FALCON](https://github.com/operationfalcon).
 
 
-Some of my tutrial on golang playground are :
+Some of my tutorial on golang playground are :
 
 Golang playground tutorial :
 
