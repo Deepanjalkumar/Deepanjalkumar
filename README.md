@@ -11,7 +11,14 @@ Nowdays i am into water, air and other side of internet (Its all dark).
 
 This account is for my personal projects and involvement with [OPERATION FALCON](https://github.com/operationfalcon).
 
+# Major programming languages that i used are :
 
+     1- Python
+     2- Golang
+     3- Javascript
+     4- Php
+     5- c/c++
+     
 Some of my tutorial on golang playground are :
 
 Golang playground tutorial :
