@@ -18,7 +18,12 @@ This account is for my personal projects and involvement with [OPERATION FALCON]
      3- Javascript
      4- Php
      5- c/c++
-     
+# Programming languages that i forgot because i was not using them are :
+
+     1- Ruby
+     2- R
+     3- SAS
+
 Some of my tutorial on golang playground are :
 
 Golang playground tutorial :
