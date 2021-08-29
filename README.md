@@ -3,7 +3,7 @@
 
 I'm a hacker aka(Security researcher ), cyber products developer and technologist that enjoys creativity, automation and 
 
-offensive stuff.
+offensive stuff. This is my public facing github repository. 
 
 My area of concern is Red team operation , making cyber products and development with a focus on offensive security engineering.
 
