@@ -46,10 +46,6 @@ sikert is my first project developed in python and as well as in golang with mor
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepanjalkumar&show_icons=true&line_height=63&count_private=true&theme=dark" alt="Deepanjalkumar GitHub Stats" />
 </a>
 
-<a href="https://github.com/sponsors/Deepanjalkumar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanjalkumar&hide=cmake&langs_count=10&line_height=35&theme=dark" />
-</a>
-
 
 
 ## 🤔 Where to find me
