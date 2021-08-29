@@ -18,6 +18,7 @@ This account is for my personal projects and involvement with [OPERATION FALCON]
      3- Javascript
      4- Php
      5- c/c++
+     6- Bash
 
 Some of my tutorial on golang playground are :
 
