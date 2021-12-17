@@ -44,11 +44,6 @@ sikert is my first project developed in python and as well as in golang with mor
 
 ![axtrack](https://user-images.githubusercontent.com/55708909/132140614-6db46e0a-4781-4151-b2c3-854e64f0cc4c.png)
 
-<a href="https://github.com/sponsors/Deepanjalkumar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepanjalkumar&show_icons=true&line_height=63&count_private=true&theme=dark" alt="Deepanjalkumar GitHub Stats" />
-</a>
-
-
 
 ## 🤔 Where to find me
 
