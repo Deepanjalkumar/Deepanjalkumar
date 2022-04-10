@@ -19,6 +19,7 @@ This account is for my personal projects and involvement with [OPERATION FALCON]
      4- Php
      5- c/c++
      6- Bash
+     7- Assembly (Intel and AT-T)
 
 Some of my tutorial on golang playground are :
 
