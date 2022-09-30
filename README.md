@@ -45,9 +45,6 @@ sikert is my first project developed in python and as well as in golang with mor
 
 ![axtrack](https://user-images.githubusercontent.com/55708909/132140614-6db46e0a-4781-4151-b2c3-854e64f0cc4c.png)
 
-[Linkedin Badge](www.linkedin.com/in/deepanjal-21041217b)
-
-
 ## 🤔 Where to find me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Deepanjal%20kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanjal-21041217b/)](www.linkedin.com/in/deepanjal-21041217b)
