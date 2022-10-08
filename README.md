@@ -33,8 +33,6 @@ https://play.golang.org/p/qvUXEkJtjkO (Worker pool)
 
 sikert is my first project developed in python and as well as in golang with more than 500 users .
 
-![port1](https://user-images.githubusercontent.com/55708909/131138782-2e08f999-e235-4564-b84b-b8404c264c82.png)
-
 ![port2](https://user-images.githubusercontent.com/55708909/131138794-4a589419-036f-465b-9214-1a54e1abef3b.png)
 
 ![axtrack](https://user-images.githubusercontent.com/55708909/124773073-3984fe80-df5a-11eb-88d9-34d9dae91527.png)
