@@ -13,13 +13,12 @@ This account is for my personal projects and involvement with [OPERATION FALCON]
 
 # Major programming languages that i used are :
 
-     1- Python
-     2- Golang
-     3- Javascript
-     4- Php
-     5- c/c++
-     6- Bash
-     7- Assembly (Intel and AT-T)
+     1- c/c++
+     2- Python
+     3- Assembly (Intel and AT-T)
+     4- Golang
+     5- Bash
+     6- Powershell
 
 Some of my tutorial on golang playground are :
 
