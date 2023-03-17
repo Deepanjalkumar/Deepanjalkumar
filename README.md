@@ -9,7 +9,7 @@ My area of concern is Red team operation , making cyber products and development
 
 Nowdays i am into water, air and other side of internet (Its all dark).
 
-This account is for my personal projects and involvement with [OPERATION FALCON](https://github.com/operationfalcon).
+This account is for my public facing projects and involvement with [OPERATION FALCON](https://github.com/operationfalcon).
 
 # Major programming languages that i used are :
 
