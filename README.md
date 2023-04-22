@@ -48,6 +48,9 @@ sikert is my first project developed in python and as well as in golang with mor
 [![Python Badge](https://img.shields.io/badge/-Deepanjal%20kumar-blue?style=flat-square&logo=Python&logoColor=white&link=https://pypi.org/user/deepanjal/)](https://pypi.org/user/deepanjal/)
 [![GitHub Deepanjalkumar](https://img.shields.io/github/followers/Deepanjalkumar?label=follow&style=social)](https://github.com/Deepanjalkumar)
 
+## EDR Development
+
+![EDR](https://user-images.githubusercontent.com/55708909/233788923-f548fe91-c8f1-42ea-bd43-a35f1ab4b458.PNG)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
