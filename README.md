@@ -50,7 +50,7 @@ sikert is my first project developed in python and as well as in golang with mor
 
 ## EDR Development
 
-![EDR](https://user-images.githubusercontent.com/55708909/233788923-f548fe91-c8f1-42ea-bd43-a35f1ab4b458.PNG)
+![edr0](https://user-images.githubusercontent.com/55708909/235686766-fe821343-f5c7-4c9b-8ba9-736ec642c2b7.PNG)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
