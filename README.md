@@ -52,13 +52,7 @@ sikert is my first project developed in python and as well as in golang with mor
 
 ![edr0](https://user-images.githubusercontent.com/55708909/235686766-fe821343-f5c7-4c9b-8ba9-736ec642c2b7.PNG)
 
-## Event Viewer Development
-
 ![eventviewer1](https://github.com/Deepanjalkumar/Deepanjalkumar/assets/55708909/fd5f2100-4615-471e-a688-348af3a6e2c7)
-
-## Analytical Stack of EDR
-
-![endgame](https://github.com/Deepanjalkumar/Deepanjalkumar/assets/55708909/fcdaf76c-a3bf-4d68-b2cd-d247ecb38c1e)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
