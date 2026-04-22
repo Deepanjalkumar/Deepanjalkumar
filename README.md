@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 👨‍💻 About Deepanjal Kumar
 
-I'm a hacker aka(Security researcher ), cyber products developer and technologist that enjoys creativity, automation and 
+I'm a Security researcher, cyber products developer and technologist that enjoys creativity, automation and 
 
 offensive stuff. This is my public facing github repository. 
 
